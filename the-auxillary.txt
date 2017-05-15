@@ -8,11 +8,21 @@ Sama recalled the meditations on the Way of the Warrior. "[i]A hunter must be un
 
 Even beneath his thick bodysuit panels, pulsing with temperature-controlled ducts and wiring, Sama felt cold beads of sweat prick his skin. He kept his helmet cocked at an off-kilter angle, not looking directly at the Gue'la or anything else, but the wide-angle cameras easily picked up his every shallow breath and flick of the eyes. The imbalance pleased Sama, but seemingingly did not phase the Gue'la. He stared straight ahead, following the Fio as they tinkered with their machines across the bay. He was either too stupid to notice the tension, or so confident in his footing that he believed no undercurrents would sway him. From where Sama was sitting, there seemed no reason for such arrogance, but there was no way to know, and the uncertainity made his blood boil. 
 
-A HUD-alert popped up with some nonsense about his heartbeat. Sama tore the helmet off and sat it on the cargo crates, already 
+A HUD-alert popped up with some nonsense about his heartbeat. Sama tore the helmet off and sat it on the cargo crates, already behind him as he strode towards the Gue'la. The man started and pawed at his uniform - to Sama, as if looking for a weapon - but none was found. 
 
-pop-up in the hud -> tears helmet off 
+"Trooper. What's your ID number?" Sama asked in a voice that, hopefully, dripped condescension and intimidation. He was rewarded with a large gulp as the Gue'la searched his face with his small, beady occipital globes. Their milky whiteness made Sama think of a neurotic Battlesuit pilot or a cripple wasting away in old age. He had never been this close to a Gue'la before, and started to regret the decision, but it was too late now. 
 
-Gue'la brings up chicken (still-life/)
+"What's the matter. [i]Cat got your tongue?[/i]" He had heard this expression before - wasn't quite sure what it meant, but presumed his intelligence on the Gue'la, down to culture and heritage, would impress upon him how outmatched any tactical engagement would be. Although, with the strange movement and sounds that came from his throat earlier, perhaps the Gue'la really did have some organ that detached or disabled their oral muscles in times of stress. 
+
+"ID number five-oh-six-three-three-seven-oh. Sir." The Gue'la threw a salute that had Sama considering hand-to-hand combat before he remembered this strange custom of theirs, but he was relived that he didn't have to deal with a dumb [i]and[/i] mute Gue'la, or the possibility of a medical emergency. 
+
+"Tell me, trooper five-zero-six-three-three-seven-zero. Do you understand how battles may be decided before a single shot is fired?"
+
+"Well, sure, sir. Shas'ui." Sama was no expert on Gue'la body language - primitive as it was compared to the Tau - but was certain nervousness radiated from this one. He simply waited for the Gue'la to further explain himself, and the stance he'd chosen to adopt. 
+
+"Uh, it's like the game of chicken. Two people start driving towards each other, and..." Sama's head swirled. He was not sure exactly what a [i]chicken[/i] was, but knew it was a type of Gue'la [i]anuk[/i]. Was this one of their "psykers", somehow peering into his mind? Is that why he was so relaxed earlier, but if so, how had he not predicted Sama's approach? Even as he asked himself the question, he realized he had no thought of his actions before he took them. He came back to the present just as the Gue'la was finishing with "I've never seen a chicken, though," bringing only further confusion. Was the chicken indeed a poisonous [i]anuk[/i], and the Gue'la implying the Tau would never see it coming? Puretide had warned him! His own ancestors would not place themselves in reach of any beast without being certain they would best it. 
+
+The Gue'la was staring at him, waiting for him to make his move. The situation was bad, even one-sided. Sama was considering disengagement options when something caught the Gue'la's eye and he squeezed past the Fire Warrior with a certain gingerness that Sama couldn't place. 
 
 Gue'la "Sorry I gotta go" when Shas'vre approaches -> arrogance
 
@@ -27,3 +37,7 @@ Gue'la didn't realize Sama was staring at him/part of the team
 "A Gue'la simply ignoring you was enough to elevate your vitals to combat-lull levels."
 
 -> :o @ insight -> "I may be more verbose than Puretide, but I pay attention." 
+
+-> Ro'katta questions how much Gue'la knows about Tau, Sama points out that he knew his rank 
+
+-> expedition is a Water Caste Envoy, Sama, Fio engineer, Gue'la and two drones 
