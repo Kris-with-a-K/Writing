@@ -18,26 +18,34 @@ A HUD-alert popped up with some nonsense about his heartbeat. Sama tore the helm
 
 "Tell me, trooper five-zero-six-three-three-seven-zero. Do you understand how battles may be decided before a single shot is fired?"
 
-"Well, sure, sir. Shas'ui." Sama was no expert on Gue'la body language - primitive as it was compared to the Tau - but was certain nervousness radiated from this one. He simply waited for the Gue'la to further explain himself, and the stance he'd chosen to adopt. 
+"Well, sure, sir. Shas'ui." Sama was no expert on Gue'la body language - primitive as it was compared to the Tau - but was certain nervousness radiated from this one. He simply waited for the Gue'la to further explain himself, and the stance he'd adopted. 
 
 "Uh, it's like the game of chicken. Two people start driving towards each other, and..." Sama's head swirled. He was not sure exactly what a [i]chicken[/i] was, but knew it was a type of Gue'la [i]anuk[/i]. Was this one of their "psykers", somehow peering into his mind? Is that why he was so relaxed earlier, but if so, how had he not predicted Sama's approach? Even as he asked himself the question, he realized he had no thought of his actions before he took them. He came back to the present just as the Gue'la was finishing with "I've never seen a chicken, though," bringing only further confusion. Was the chicken indeed a poisonous [i]anuk[/i], and the Gue'la implying the Tau would never see it coming? Puretide had warned him! His own ancestors would not place themselves in reach of any beast without being certain they would best it. 
 
-The Gue'la was staring at him, waiting for him to make his move. The situation was bad, even one-sided. Sama was considering disengagement options when something caught the Gue'la's eye and he squeezed past the Fire Warrior with a certain gingerness that Sama couldn't place. 
+The Gue'la was staring at him, waiting for him to make his move. The situation was bad, even one-sided. Sama was considering disengagement options when something caught the Gue'la's eye and he squeezed past the Fire Warrior with a certain gingerness that Sama couldn't place. Muttering something as he went by, Sama was content to let him go before he turned and saw his target: Shas'vre Ro'katta. The impudence of this Gue'la knew no bounds! Daring to approach the captain of a Tau mission without the Tau element! Teeth clenched, Sama caught up to the Gue'la just as he was, again, carrying out his strange salute, and gave Ro'Katta the proper warrior hail. 
 
-Gue'la "Sorry I gotta go" when Shas'vre approaches -> arrogance
+The ritual was returned before Ro'katta turned to the Gue'la and said "At ease, Jorge. I'm sure you're both curious and eager for details on your assignment." 
+
+The Gue'la, Jorge, turned to Sama, mouth agape. "You mean to say, sir, that this trooper is the muscle?" The Gue'la hadn't even known! 
+
+"Correct. He will be operating a Drone Controller with two specially modified Kor'vesa, assembled by Fio'ui Lynu'is. Lynu and Por'vre Ken'hesa will also be joining your expedition." Lynu was overjoyed to be assigned to this mission, and had been talking about it [i]excessively[/i] with Sama during their weekly shrimp cocktails. He was happy for his friend, but a Fire Warrior, even a drone operator, can only hear so much talk about machinery before he wishes to go to the range for target practice. Ken'hesa was only a face and a reputation to Sama, but the reputation was good, and he heard the same of the face. Sama was confident in the success of the mission, as long as the Gue'la could pull his weight. 
+
+"Jorge did not notice you because you were one of many. Why pay attention to any insect when inside their hive? At first, you notice nothing, overwhelmed by the sights and sounds. Then, the patterns of movement become clear. Distractions, if disruptive, are jarring and obvious; if innocuous, simply ignored as a fixture. You were the latter, until you stood up."
+
+The comparison of a rigorously maintained and highly efficient Tau Forward Operating Base to an insect hive furrowed Sama's brow, and the possible implication that he had been lounging was enough to pull out a clipped response - not directly to a decorated superior, of course, and certainly not in front of the Gue'la. But he felt as if it the Tau honor, his honor, had already been discredited. The Gue'la couldn't get too cocky. 
+
+"Shas'vre, this Gue'la was provided the mission briefing packet many [i]rotaa[/i] ago, just as the rest of the team - yet, he did not bother to learn even his teammates' names. His blindness jeopardizes our success." Sama spoke in Gue'la'sia to drive the message home. 
+
+"Shas'ui Ksi'm'yen B'sama Or'vesa, I do not need to remind you that I selected this Gue'la myself." The Shas'vre's formal address stiffened Sama's back, but he was grateful that the captain spoke in Tau. "I have watched this one. He understands the patterns that weave through life. Actually, we first took note of him when some trace food supplies went missing. It was difficult to locate the culprit, but we eventually discovered the Gue'la exploiting holes in internal security to swipe food from the Kor'vesa as they carried it from the kitchen to outlying duty watches." Sama took a sidelong look at the Gue'la with new appreciation. He was, indeed, a dangerous [i]anuk[/i]. 
+
+"I am not certain how much of our culture he understands, or if he only embraces it for his own benefit. But this mission will demand his awareness and familiarity with the Gue'ya, and test him." The Gue'la was wearing a subtle smirk that made Sama think he understood more of Tau than he let on. 
 
 Gue'la brings up Fio as working on -their- dropship (correct)
 
-Gue'la didn't realize Sama was staring at him/part of the team 
-
-"[name] did not notice you because you were one of many. Why pay attention to any insect when you are inside their hive? At first, you notice nothing, overwhelmed by the sights and sounds. Then, the patterns of movement become clear. Distractions, if disruptive, are jarring and obvious; if innocuous, simply ignored as a fixture."
-
--> Sama gets angry about 'disrespect' to Tau way + implying he's lazy 
+-> selected for bridging gaps and engineering experience 
 
 "A Gue'la simply ignoring you was enough to elevate your vitals to combat-lull levels."
 
 -> :o @ insight -> "I may be more verbose than Puretide, but I pay attention." 
 
 -> Ro'katta questions how much Gue'la knows about Tau, Sama points out that he knew his rank 
-
--> expedition is a Water Caste Envoy, Sama, Fio engineer, Gue'la and two drones 
