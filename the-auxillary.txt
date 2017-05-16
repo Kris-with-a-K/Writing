@@ -16,7 +16,7 @@ A HUD-alert popped up with some nonsense about his heartbeat. Sama tore the helm
 
 "ID number five-oh-six-three-three-seven-oh. Sir." The Gue'la threw a salute that had Sama considering hand-to-hand combat before he remembered this strange custom of theirs, but he was relived that he didn't have to deal with a dumb [i]and[/i] mute Gue'la, or the possibility of a medical emergency. 
 
-"Tell me, trooper five-zero-six-three-three-seven-zero. Do you understand how battles may be decided before a single shot is fired?"
+"Tell me, trooper five-zero-six-three-three-seven-zero. Do you understand how battles may be decided before a single shot is fired?" 
 
 "Well, sure, sir. Shas'ui." Sama was no expert on Gue'la body language - primitive as it was compared to the Tau - but was certain nervousness radiated from this one. He simply waited for the Gue'la to further explain himself, and the stance he'd adopted. 
 
@@ -66,17 +66,25 @@ Sama was starting to realize why Ro'katta was a a Shas'vre. He felt like he want
 
 "You will have to do both." So much for rest. "Notice the big picture, the tidal motion of the Gue'la. But do not forget the anchors that stand steady. They shape and direct the masses. And any agitation..." - she flashed a lopsided smile - "may help us topple them."
 
+At that moment, the Gue'la and Lynu returned from the dropship, this time with a pair of drones in tow. "Sama, we must take these beautiful Kor'vesa to the practice range! You will not believe the modifications the 'Vre has allowed me to install!"
 
+"Indeed," Ro'katta interjected. She'd already picked up on the fact that you couldn't just let Lynu talk. "The drones are to provide security as well as geographic surveying data. The Gue'la are, of course, aware of the specifications, but Por'ui Lynu'is will explain in detail to you later." Ko'ratta was talking to Lynu, but looking at Jorge. 
 
--> :o @ insight -> "I may be more verbose than Puretide, but I do pay attention." 
+"I understand you perfectly, Shas'vre Ro'katta! Without a doubt, the technicalities would go over this poor vesa's head!" Lynu clapped Jorge on the shoulder. 
 
--> Ro'katta questions how much Gue'la knows about Tau, Sama points out that he knew his rank 
+Switching to Gue'la'sia, Ro'katta addressed the auxillary directly. "And you, as well, understand your purpose?"
 
+"Of course, Shas'vre. It will be good to get back to familiar territory."
 
-moved: 
-	""
+"I think the Gue'la claims innocence too frequently," Sama said levelly, speaking now in Gue'la'sia to show respect as much as to impress. "Despite not reading the briefing, he identified my rank by armor markings alone when I approached." He extended his fist in the traditional bump of respect. 
 
-	The comparison of a rigorously maintained and highly efficient Tau Forward Operating Base to an insect hive furrowed Sama's brow, and the possible implication that he had been lounging was enough to pull out a clipped response - not directly to a decorated superior, of course, and certainly not in front of the Gue'la. But he felt as if it the Tau honor, his honor, had already been discredited. The Gue'la couldn't get too cocky. 
+Instead, the Gue'la took it and shook it wildly. He would never fully understand them - but the smallest of nods of approval from Ro'katta showed that he was noticing what he was supposed to. Sama looked his new teammate in the eye. "Jorge, is it? I am Shas'ui B'sama Or'vesa, Pathfinder Team Leader and Drone operator. I trust the Shas'vre has made the correct decision in choosing you."
 
-hmm:
-	Or'mon'kor'eoro vs Ui't'or'mon'kor vs drone operator 
+Jorge nodded, eyeing his new comrade up and down. "Right. Same to you, I guess." Thankfully, with that he stopped flailing Sama's hand. 
+
+for future: 
+	Por'vre + Por'la bookkeeper! uh oh 
+	Lynu "I know what's up" at the drone range 
+	... the middle ... 
+	They ride anuk in an epic charge at the climax 
+	Ro'katta "I may be more verbose than Puretide, but I do pay attention." (at conclusion)
